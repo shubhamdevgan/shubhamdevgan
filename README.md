@@ -135,9 +135,9 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Shubham's github stats](https://github-readme-stats1-puce.vercel.app/api?username=shubhamdevgan&count_private=true&include_all_commits=true)
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
+### <p align="center">![Shubham's github stats](https://gpvc.arturio.dev/shubhamdevgan)
+</p>
