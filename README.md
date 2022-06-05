@@ -1,6 +1,7 @@
 # Hi there! I'm Shubham Devgan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-<a href="https://www.linkedin.com/in/shubham-devgan-ba7454140/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubham-devgan-ba7454140" height="30" width="30" /></a>&nbsp;
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Contact%20Me-on-green" alt="shubham-devgan-ba7454140" height="30" width="110" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/shubham-devgan-ba7454140/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="shubham-devgan-ba7454140" height="30" width="30" /></a>&nbsp;
 <a href="mailto:devganshubham2@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="devganshubham2@gmail.com" height="30" width="70" /></a>&nbsp;
 </p>
 
@@ -139,5 +140,5 @@
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
-### <p align="center">![Visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamdevgan.visitor-badge&left_color=black&right_color=orange)
+### <p align="center">![Visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamdevgan.visitor-badge&left_color=grey&right_color=green)
 </p>
